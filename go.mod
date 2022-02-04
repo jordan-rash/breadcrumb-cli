@@ -1,4 +1,4 @@
-module breadcrumb
+module github.com/jordan-rash/breadcrumb-cli
 
 go 1.17
 
